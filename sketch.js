@@ -48,3 +48,4 @@ function draw() {
      game.end();
    }
 }
+//added some comments just for checking purpose
